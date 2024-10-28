@@ -1,0 +1,32 @@
+{
+  "menuDesayunos": {
+    "nombreRestaurante": "Casa Francesa",
+    "fecha": "2023-10-01",
+    "platos": [
+      {
+        "nombre": "Gofres Belgas",
+        "precio": 5.95,
+        "descripcion": "Dos de nuestros famosos Gofres belgas con abundantes sirope.",
+        "calorias": 650
+      },
+      {
+        "nombre": "Gofres Belgas con fresas",
+        "precio": 7.95,
+        "descripcion": "Ligeros gofres belgas cubiertos de fresa y nata montada.",
+        "calorias": 900
+      },
+      {
+        "nombre": "Gofres Belgas con frutas del bosque",
+        "precio": 8.95,
+        "descripcion": "Ligeros gofres belgas cubiertos con frutas del bosque y nata montada.",
+        "calorias": 900
+      },
+      {
+        "nombre": "Smoothie de Plátano",
+        "precio": 5.50,
+        "descripcion": "Batido de plátano, yogur y leche, ideal para comenzar el día.",
+        "calorias": 250
+      }
+    ]
+  }
+}
