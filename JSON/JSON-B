@@ -22,10 +22,16 @@
         "calorias": 900
       },
       {
-        "nombre": "Smoothie de Plátano",
-        "precio": 5.50,
-        "descripcion": "Batido de plátano, yogur y leche, ideal para comenzar el día.",
-        "calorias": 250
+        "nombre": "Tostada francesa",
+        "precio": 4.50,
+        "descripcion": "Dos gruesas rebanadas de nuestro pan francés casero.",
+        "calorias": 600
+      },
+      {
+        "nombre": "Desayuno de la casa",
+        "precio": 6.95,
+        "descripcion": "Dos huevos, bacon o salchicha, tostada y patatas fritas.",
+        "calorias": 950
       }
     ]
   }

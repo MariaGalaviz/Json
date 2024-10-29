@@ -1,0 +1,47 @@
+{
+  "factura": {
+    "empresa": {
+      "nombre": "Nombre de la Empresa",
+      "direccion": "Nombre de la calle #, Ciudad, País, Código Postal",
+      "telefono": "0000000000",
+      "correo": "coreo@empresa.com"
+      "pagina": "paginawebempresa.com"
+    },
+    "cliente": {
+      "nombre": "Nombre del Cliente",
+      "direccion": "Nombre de la calle #, Ciudad, País, Código Postal",
+    },
+    "clienteEnvio": {
+     "nombre": "Nombre del Cliente",
+     "direccion": "Nombre de la calle #, Ciudad, País, Código Postal",
+     },
+    "numero_factura": "#12345",
+    "fecha_emision": "mm/dd/yyyy",
+    "termino": "net 30",
+    "vencimiento": "mm/dd/yyyy",
+    "detalles": [
+      {
+        "producto": "Producto 1",
+        "descripcion": "Describe el producto o servicio",
+        "cantidad": 0,
+        "precio_unitario": 0.00,
+        "subtotal": 0.00
+      },
+      {
+        "producto": "Producto 2",
+        "descripcion": "Describe el producto o servicio",
+        "cantidad": 0,
+        "precio_unitario": 0.00,
+        "subtotal": 0.00
+      }
+    ],
+    "subtotal": 0.00,
+    "impuestos": {
+      "tipo": "IVA",
+      "porcentaje": 16,
+      "monto": 0.00
+    },
+    "envio": 0.00,
+    "total": 0.00
+  }
+}
